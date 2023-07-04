@@ -218,14 +218,11 @@ body {
 
 	.hero-container {
 		font-size: 1rem;
+		padding: 3.6rem;
 	}
 
 	.hero-container--fontBig {
 		font-size: 3rem;
-	}
-
-	.hero-container div {
-		transform: translate(10, 0);
 	}
 
 	/**************************/
