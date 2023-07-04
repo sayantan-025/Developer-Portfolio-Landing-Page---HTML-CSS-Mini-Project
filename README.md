@@ -6,7 +6,7 @@
 
 [www.developer-portfolio-landing-page.com](https://developer-portfolio-landing-page-s25.netlify.app/)
 
-<h2>👁️ Project Screenshots :</h2>
+<h2>👁️ Project Overview :</h2>
 
 <img src="./screeenshots/Screenshot%20.png" alt="shields" width="800" height="400&quot;/">
 
