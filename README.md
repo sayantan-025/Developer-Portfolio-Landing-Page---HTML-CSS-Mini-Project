@@ -10,6 +10,6 @@
 
 <img src="./screeenshots/Screenshot%20.png" alt="shields" width="800" height="400&quot;/">
 
-<h2>💖Like my work ?</h2>
+<h2> 💖Like my work ?</h2>
 
 This project needs a ⭐️ from you. Don't forget to leave a star ⭐️.
